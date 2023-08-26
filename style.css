@@ -1,0 +1,39 @@
+#welcome{
+text-align: center;
+    background-color: aquamarine;
+    
+}
+#img1{
+ width: 250px;
+    height: 250px;
+    padding: 50px;
+    border-radius: 50%;
+}
+#h1{
+    font-size: 40px;
+    font-family: sans-serif;
+}
+.line{
+    height: 7px;
+    width: 80px;
+    background-color: coral;
+    margin: 8px auto;
+}
+body{text-align: center;}
+h1{font-size: 40px;}
+#games{width: 100%;
+height: 200px;}
+.menu{position: fixed;
+width: 100%;
+z-index: 10;
+}
+.link{display: inline;
+font-size: 30px;
+padding-left: 30px;
+padding-right: 25px;
+float:left;
+}
+.link:hover{font-size: 35px;
+text-decoration: underline;}
+p{font-size: 20px;
+font-family: monospace;}
